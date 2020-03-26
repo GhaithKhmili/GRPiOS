@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "./configure --prefix=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross --sysconfdir=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross/etc --enable-static --target=arm-buildroot-linux-gnueabihf --with-sysroot=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross/arm-buildroot-linux-gnueabihf/sysroot --enable-__cxa_atexit --with-gnu-ld --disable-libssp --disable-multilib --disable-decimal-float --with-gmp=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross --with-mpc=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross --with-mpfr=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross --with-pkgversion='Buildroot 2019.02' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-abi=aapcs-linux --with-cpu=cortex-a53 --with-fpu=neon-vfpv4 --with-float=hard --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross/arm-buildroot-linux-gnueabihf/bin --enable-shared --disable-libgomp";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "abi", "aapcs-linux" }, { "cpu", "cortex-a53" }, { "float", "hard" }, { "mode", "arm" }, { "fpu", "neon-vfpv4" }, { "tls", "gnu" } };

@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/ghaith/br-tree/buildroot-2019.02/../board/rpi-3/cross/bin/bison' -y "$@"
